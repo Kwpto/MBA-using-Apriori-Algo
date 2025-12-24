@@ -18,12 +18,12 @@ Dataset used: `Groceries data.csv` (primary) and `basket.csv` (optional/validati
 ### 2) Exploratory Data Analysis (EDA)
 Performed EDA to understand sales patterns:
 - **Top frequently sold items**
-- ![Top frequent sold items](Screenshot 2025-12-24 225731.png)
+- [Top frequent sold items](Screenshot 2025-12-24 225731.png)
 - **Basket size distribution** 
 - **Basket size box plot**
-- ![box plot](Screenshot 2025-12-24 225139.png)
+- [box plot](Screenshot 2025-12-24 225139.png)
 - - **Co-occurrence heatmap** (top N items)
- - ![Co-Occ Heatmap](Screenshot 2025-12-24 225008.png)
+ - [Co-Occ Heatmap](Screenshot 2025-12-24 225008.png)
  
   - ### 3) Market Basket Analysis (Apriori)
 Steps:
